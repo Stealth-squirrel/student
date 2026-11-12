@@ -1,4 +1,4 @@
-package com.example.student.controller;
+package com.example.student;
 
 import com.example.student.dto.user.UserRequest;
 import com.example.student.dto.user.UserResponse;

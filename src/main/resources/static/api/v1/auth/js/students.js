@@ -8,7 +8,6 @@ if (!isAdmin && !isTeacher) {
 
 document.getElementById('who').textContent = roleNames();
 
-// ── Форма добавления — только для ADMIN ──
 if (isAdmin) {
     document.getElementById('msg').insertAdjacentHTML('beforebegin', `
         <form id="create-form" class="card row">

@@ -1,4 +1,4 @@
-package com.example.student.controller;
+package com.example.student;
 
 import com.example.student.dto.*;
 import com.example.student.service.StudentService;
